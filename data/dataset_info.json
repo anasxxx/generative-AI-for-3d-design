@@ -1,0 +1,525 @@
+{
+  "dataset_type": "filtered_mesh",
+  "total_samples": 1212,
+  "train_samples": 969,
+  "validation_samples": 243,
+  "image_size": [
+    256,
+    256
+  ],
+  "categories": [
+    "clothing",
+    "accessories",
+    "bags",
+    "shoes"
+  ],
+  "structure": {
+    "image_format": "{ID}_tex.png",
+    "mesh_format": "model_cleaned.obj",
+    "directory_pattern": "{ID}-{variant}"
+  },
+  "preprocessing_date": "2025-08-24T03:59:27",
+  "optimized_for": "RTX_2000_Ada_8h_training",
+  "train_samples_info": [
+    {
+      "id": "337-3",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "535-2",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "437-2",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "459-5",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "249-2",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "500-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "207-1",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "102-5",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "490-3",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "238-2",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "509-2",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "581-3",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "377-6",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "448-2",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "320-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "431-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "74-2",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "252-6",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "542-5",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "11-2",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "2-6",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "529-2",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "301-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "134-1",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "396-5",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "429-5",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "443-3",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "466-2",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "413-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "36-3",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "400-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "507-5",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "460-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "464-5",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "52-2",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "288-1",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "358-6",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "370-5",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "225-1",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "222-3",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "403-4",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "382-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "525-2",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "400-2",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "67-1",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "588-3",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "472-2",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "490-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "398-5",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "452-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "586-4",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "585-3",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "305-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "333-3",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "353-2",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "16-16",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "540-1",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "522-2",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "523-2",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "6-15",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "513-4",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "568-2",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "539-2",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "58-1",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "586-1",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "231-1",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "433-3",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "347-4",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "407-3",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "251-1",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "596-3",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "352-5",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "9-7",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "238-3",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "4-18",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "106-5",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "374-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "423-2",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "135-1",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "140-2",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "128-1",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "103-1",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "346-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "17-4",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "546-3",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "4-16",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "10-1",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "464-4",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "425-3",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "379-5",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "174-1",
+      "category": "clothing",
+      "has_material": true
+    },
+    {
+      "id": "400-3",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "518-6",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "35-3",
+      "category": "accessories",
+      "has_material": true
+    },
+    {
+      "id": "427-3",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "429-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "431-5",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "591-4",
+      "category": "bags",
+      "has_material": true
+    },
+    {
+      "id": "469-1",
+      "category": "shoes",
+      "has_material": true
+    },
+    {
+      "id": "121-1",
+      "category": "clothing",
+      "has_material": true
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "337-3",
+    "category": "shoes",
+    "image_shape": [
+      256,
+      256,
+      3
+    ],
+    "mesh_vertices": 26634,
+    "mesh_faces": 52800,
+    "processed_image": "data\\samples\\sample_337-3_processed.png"
+  },
+  {
+    "id": "535-2",
+    "category": "bags",
+    "image_shape": [
+      256,
+      256,
+      3
+    ],
+    "mesh_vertices": 20155,
+    "mesh_faces": 40032,
+    "processed_image": "data\\samples\\sample_535-2_processed.png"
+  },
+  {
+    "id": "437-2",
+    "category": "shoes",
+    "image_shape": [
+      256,
+      256,
+      3
+    ],
+    "mesh_vertices": 5884,
+    "mesh_faces": 11456,
+    "processed_image": "data\\samples\\sample_437-2_processed.png"
+  },
+  {
+    "id": "459-5",
+    "category": "shoes",
+    "image_shape": [
+      256,
+      256,
+      3
+    ],
+    "mesh_vertices": 5884,
+    "mesh_faces": 11456,
+    "processed_image": "data\\samples\\sample_459-5_processed.png"
+  },
+  {
+    "id": "249-2",
+    "category": "clothing",
+    "image_shape": [
+      256,
+      256,
+      3
+    ],
+    "mesh_vertices": 26634,
+    "mesh_faces": 52800,
+    "processed_image": "data\\samples\\sample_249-2_processed.png"
+  }
+]

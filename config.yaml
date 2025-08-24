@@ -1,0 +1,26 @@
+dataset_path: C:/Users/mahmo/OneDrive/Documents/filtered_mesh
+gpu_config:
+  batch_size: 2
+  memory_growth: true
+  mixed_precision: true
+  num_workers: 2
+logs_dir: ./logs/
+model_config:
+  beta1: 0.5
+  beta2: 0.999
+  discriminator_lr: 0.0001
+  generator_lr: 0.0002
+  input_resolution:
+  - 256
+  - 256
+  latent_dim: 512
+  voxel_resolution: 64
+model_dir: ./models/
+output_dir: ./outputs/
+project_name: Fashion2D3D_GAN
+training_config:
+  early_stopping_patience: 20
+  epochs_per_hour: 15
+  max_hours: 8.0
+  save_interval: 30
+  validation_interval: 60
